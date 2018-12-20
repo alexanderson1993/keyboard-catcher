@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "gkm": "^0.2.0"
+    "gkm": "^0.2.0",
+    "iohook": "^0.3.0"
   },
   "devDependencies": {},
   "scripts": {
